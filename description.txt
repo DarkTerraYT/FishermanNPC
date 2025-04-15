@@ -1,0 +1,1 @@
+Adds a fisherman that sells fishing things unlocked at different points of the game.

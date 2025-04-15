@@ -1,0 +1,47 @@
+Projectiles.Fish.DisplayName: Fish
+
+Items: {
+	Enquestinator: {
+		DisplayName: Enquestinator
+		Description: Increases Angler Quests by 5
+		Tooltip: ""
+	}
+
+	FishGun: {
+		DisplayName: Fish Gun
+		Tooltip: ""
+	}
+}
+
+NPCs: {
+	Fisherman: {
+		DisplayName: Fisherman
+
+		TownNPCMood: {
+			Content: I am happy as a well fed fish.
+			NoHome: I really need a place to store my fish.
+			FarFromHome: I am too far from home.
+			LoveSpace: I can practically have my own ocean with all this space!
+			DislikeCrowded: Too many flippers around here, makes the fishes' quality low.
+			HateCrowded: Mind as well have my fish floppin' around with everyone else in here with how little space there is!
+			LoveBiome: I really love the {BiomeName}, so many beauties ready to be caught, plus I love the smell of the sea.
+			LikeBiome: The {BiomeName} is nice to live in, there's enough fish around here that you don't have to wait forever.
+			DislikeBiome: This {BiomeName} biome just isn't right. I mean, these fish are not natural in any sense of the word.
+			LoveNPC: I love {NPCName}! He's got the same hat as me, so we must be alike! Right?
+			LikeNPC: Y'know, {NPCName} makes great gadgets for my fishing rod. Even made one that fishes for me!
+			DislikeNPC: I dislike what {NPCName} does, scares off the fish.
+			HateNPC: I hate {NPCName}. I mean testing his bombs by blowing up the fish? Seriously?!
+			LikeNPC_Princess: Well, {NPCName} is royalty, so she must be great.
+			Princess_LovesNPC: I like {NPCName}, his fish are awesome!
+		}
+	}
+}
+
+Dialogue1: What's the fish's name? I just call her Fish! When I go into the snow biome pengiuns try to get her though.
+Dialogue2: I bet today is a good day to go fishin'.
+Dialogue3: It smells salty in here? Sorry I just had a fishin' trip.
+Dialogue4: If you want some fish, then I got some in my shop!
+TalkALot: Why keep talkin' to me so much when there are fish to catch?
+Rainy: Since it's rainy out, if you fish in the river, you might get a Catfish in the spring or fall! Wait... wrong game.
+RareDialogue: I wonder how Willy's doing over in the valley.
+Emotes.FishermanEmote.Command: fisherman
