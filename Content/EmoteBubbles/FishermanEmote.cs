@@ -16,12 +16,6 @@ namespace FishermanNPC.Content.EmoteBubbles
             AddToCategory(EmoteID.Category.Town);
         }
 
-        public override void OnSpawn()
-        {
-            EmoteBubble.lifeTime *= 2;
-            EmoteBubble.lifeTimeStart *= 2;
-        }
-
         public override bool IsUnlocked() => FishermanSystem.fishermanUnlocked;
     }
 }

@@ -1,1 +1,6 @@
 Adds a fisherman that sells fishing things unlocked at different points of the game.
+
+Version 1.1:
+Some things I forgot to do before releasing
+
+Source code can be found here: http://github.com/DarkTerraYT/FishermanNPC
